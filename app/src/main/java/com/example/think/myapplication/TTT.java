@@ -5,4 +5,5 @@ package com.example.think.myapplication;
  */
 
 public class TTT {
+    public String mString;
 }
